@@ -1,12 +1,10 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Zomato</title>
-  </head>
-  <body>
-    <h2>Zomato Food Delivery</h2>
-      <p>To order food visit zomato</p>
-       <a href="https://www.zomato.com"target="_blank">visit zomato</a>
-       <script src="scrip.js"></script>
-  </body>
-<html>
+weaveconnect/
+  server/
+    package.json
+    index.js
+  client/
+    package.json
+    src/
+      App.jsx
+      main.jsx
+  README.md
