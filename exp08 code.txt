@@ -1,10 +1,6 @@
-weaveconnect/
-  server/
-    package.json
-    index.js
-  client/
-    package.json
-    src/
-      App.jsx
-      main.jsx
-  README.md
+todo-app/
+
+ index.html
+ style.css
+ script.js
+ README.md
